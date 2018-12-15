@@ -9,12 +9,12 @@ The next stage is to send the third stage code in the communication between serv
 Challengers need to collect flag_1 in PowerShell phase and flag_2 in MBR CrackMe phase.
 Combine the above two flag to get a complete flag.
 
-## ÌâÄ¿µÄÉè¼ÆË¼Â·
-ÊÜº¦ÕßÍ¨¹ı´ò¿ªCHMÎÄ¼ş£¬¸ÃCHM»áÒıµ¼PowerShell´úÂë£¬¸Ã´úÂë·Ö3¸ö½×¶Î£¬
-µÚÒ»½×¶ÎÍ¨¹ıDNSËíµÀÒıµ¼µÚ¶ş½×¶Î£¬
-µÚ¶ş½×¶ÎÊÇÒ»¸ö»ùÓÚPowerShellµÄ¼òµ¥Ô¶¿Ø£¬
-ºóĞøÔÚ·şÎñÆ÷µÄÍ¨ĞÅÖĞ»áÏÂ·¢µÚÈı½×¶Î´úÂë£¬¶ø¸Ã´úÂëÊÇÒ»¸öMBRµÄCrackMe£¬
-ÌôÕ½ÕßĞèÒªÊÕ¼¯PowerShell½×¶ÎµÄflag1ÒÔ¼°MBR CrackMe½×¶ÎµÄflag2Æ´´ÕµÃµ½·´Õıflag.
+## é¢˜ç›®çš„è®¾è®¡æ€è·¯
+å—å®³è€…é€šè¿‡æ‰“å¼€CHMæ–‡ä»¶ï¼Œè¯¥CHMä¼šå¼•å¯¼PowerShellä»£ç ï¼Œè¯¥ä»£ç åˆ†3ä¸ªé˜¶æ®µï¼Œ
+ç¬¬ä¸€é˜¶æ®µé€šè¿‡DNSéš§é“å¼•å¯¼ç¬¬äºŒé˜¶æ®µï¼Œ
+ç¬¬äºŒé˜¶æ®µæ˜¯ä¸€ä¸ªåŸºäºPowerShellçš„ç®€å•è¿œæ§ï¼Œ
+åç»­åœ¨æœåŠ¡å™¨çš„é€šä¿¡ä¸­ä¼šä¸‹å‘ç¬¬ä¸‰é˜¶æ®µä»£ç ï¼Œè€Œè¯¥ä»£ç æ˜¯ä¸€ä¸ªMBRçš„CrackMeï¼Œ
+æŒ‘æˆ˜è€…éœ€è¦æ”¶é›†PowerShellé˜¶æ®µçš„flag1ä»¥åŠMBR CrackMeé˜¶æ®µçš„flag2æ‹¼å‡‘å¾—åˆ°å®Œæ•´flag.
 
 WriteUp
 See
